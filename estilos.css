@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    height: 80px;
+    width: 80px;
+    background-color: blue;
+}
+body{
+    background-color: blueviolet;
+}
+.container-fluid{
+    background-color: rgb(107, 107, 230);
+}
+.card{
+    background-color: rgb(233, 143, 255);
+}
